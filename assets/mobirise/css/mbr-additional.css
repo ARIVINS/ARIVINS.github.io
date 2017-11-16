@@ -1341,8 +1341,6 @@ body {
   color: #000;
 }
 .cid-qB1Zk220La {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1613x1080.jpg");
 }
 .cid-qB1Zk220La .mbr-figure {
@@ -1352,6 +1350,10 @@ body {
   text-align: center;
 }
 .cid-qB1Zk220La H1 {
+  text-align: center;
+}
+.cid-qB1Zk220La .mbr-text,
+.cid-qB1Zk220La .mbr-section-btn {
   text-align: center;
 }
 .cid-qB36aNNaME .navbar {
@@ -2200,6 +2202,9 @@ body {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
+}
+.cid-qB6vY9SUSP H4 {
+  text-align: center;
 }
 .cid-qB3oEfMrIQ {
   padding-top: 30px;
