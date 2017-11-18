@@ -1,1 +1,0 @@
-# ARIVINS.github.io
